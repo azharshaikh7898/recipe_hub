@@ -1,0 +1,10 @@
+numpy
+torch
+torchvision
+nltk
+Pillow
+tqdm
+flask
+flask_cors
+waitress
+requests
