@@ -4,10 +4,8 @@
 
 ## 📱 App Demo Screenshots
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <img src="https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=RecipeHub%20mobile%20app%20main%20screen%20showing%20Today%27s%20Menu%2C%20Breakfast%20Lunch%20Snack%20cards%2C%20Ingredients%20Stock%2C%20and%20bottom%20navigation%20with%20camera%20button&image_size=square_hd" alt="RecipeHub Home Screen" width="300">
-  <img src="https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=RecipeHub%20mobile%20app%20recipe%20details%20screen%20showing%20Beef%20Bourguignon%20recipe%2C%20ingredients%20list%2C%20and%20instructions&image_size=square_hd" alt="Recipe Details Screen" width="300">
-</div>
+![RecipeHub Home Screen](https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=RecipeHub%20mobile%20app%20main%20screen%20showing%20Today%27s%20Menu%2C%20Breakfast%20Lunch%20Snack%20cards%2C%20Ingredients%20Stock%2C%20and%20bottom%20navigation%20with%20camera%20button&image_size=square_hd)
+![Recipe Details Screen](https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=RecipeHub%20mobile%20app%20recipe%20details%20screen%20showing%20Beef%20Bourguignon%20recipe%2C%20ingredients%20list%2C%20and%20instructions&image_size=square_hd)
 
 ## Overview
 
