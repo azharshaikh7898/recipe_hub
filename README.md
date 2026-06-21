@@ -4,8 +4,16 @@
 
 ## 📱 App Demo Screenshots
 
-![RecipeHub Home Screen](assets/images/recipehub_home.png)
-![Recipe Details Screen](assets/images/recipe_details.png)
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <img src="assets/images/recipehub_home.png" alt="RecipeHub Home Screen" width="250">
+    <p><strong>Home Screen</strong><br>View today's menu, track your ingredients stock, and access meal planning features all in one place.</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/images/recipe_details.png" alt="Recipe Details Screen" width="250">
+    <p><strong>Recipe Details</strong><br>Get complete ingredient lists and step-by-step cooking instructions for any dish you capture.</p>
+  </div>
+</div>
 
 ## Overview
 
